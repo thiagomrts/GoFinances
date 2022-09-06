@@ -6,7 +6,7 @@
 <p align=center>
   <img src="https://user-images.githubusercontent.com/57572762/101266147-f7c57880-372a-11eb-8198-06717ce325c8.PNG">
 </p>
-
+##
 ## :rocket: Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
