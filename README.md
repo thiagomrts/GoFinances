@@ -3,9 +3,9 @@
 <p align=center>
   <img src="https://user-images.githubusercontent.com/57572762/101266201-79b5a180-372b-11eb-8641-6bd910bf957d.PNG">
 </p>
-## ![ordelyFinances1](https://user-images.githubusercontent.com/57572762/101266201-79b5a180-372b-11eb-8641-6bd910bf957d.PNG)
-## ![ordelyFinances2](https://user-images.githubusercontent.com/57572762/101266147-f7c57880-372a-11eb-8198-06717ce325c8.PNG)
-
+<p align=center>
+  <img src="https://user-images.githubusercontent.com/57572762/101266147-f7c57880-372a-11eb-8198-06717ce325c8.PNG">
+</p>
 
 ## :rocket: Tecnologias
 
