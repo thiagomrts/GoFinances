@@ -9,9 +9,10 @@
 
 ##
 
-## :rocket: Tecnologias
+## :rocket: Technologies
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with the following technologies:
+
  - Node
  - Docker
  - Postgres
@@ -20,17 +21,19 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
  - Axios
  - React Hooks
  
- ## :computer: Projeto
+ ## :computer: Project
 
-O GoFinances é uma aplicação que disponibiliza a administração de finanças através da importação de arquivos CSV.
+GoFinances is an application that provides financial management by importing CSV files.
 
-## :thinking: Como contribuir
+## :thinking: How to contribute:
 
 - Faça um fork desse repositório;
 - Crie uma branch com a sua feature: git checkout -b minha-feature;
 - Faça commit das suas alterações: git commit -m 'feat: Minha nova feature';
 - Faça push para a sua branch: git push origin minha-feature.
 
-Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
+After your pull request is merged, you can delete your branch.
+
 #
-Feito com :hearts: by thiagomrts :wave:
+
+Done with :hearts: by thiagomrts :wave:
